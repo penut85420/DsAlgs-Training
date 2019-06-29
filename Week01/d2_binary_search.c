@@ -21,6 +21,8 @@ int main() {
         printf("Found target at index %d\n", idx);
     }
 
+    free(arr);
+    
     return 0;
 }
 
