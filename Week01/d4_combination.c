@@ -18,6 +18,7 @@ int main() {
 
     combination(arr, size, 0, length, copy, &count);
     printf("Total %d", count);
+    free(arr);
 
     return 0;
 }
