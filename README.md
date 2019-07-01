@@ -8,6 +8,7 @@
   + Day 4 - 組合 Combination
   + Day 5 - 矩陣相加 Matrix Addition
   + Day 6 - 矩陣轉置 Matrix Transpose
+  + Day 7 - 矩陣乘法 Matrix Multiplication
 + Exercise
   + Exercise 1 - 3 Numbers Sorting
   + Exercise 2 - Sum of Divisors
