@@ -12,3 +12,4 @@
 + Exercise
   + Exercise 1 - 3 Numbers Sorting
   + Exercise 2 - Sum of Divisors
+  + Exercise 3 - Magic Square
